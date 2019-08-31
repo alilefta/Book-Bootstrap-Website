@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap4": "0.0.1-security",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "save": "^2.4.0"
+  },
+  "version": ""
+}
